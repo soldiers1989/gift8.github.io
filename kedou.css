@@ -4393,7 +4393,7 @@ body.sign-show {
 .pageheader{overflow: hidden;background-color: #61B3E6;padding: 1px 20px;margin-bottom:15px;color: #fff;}
 .pageheader h1{font-size: 36px;font-weight:bold;margin:0;float:left;margin:12px auto 12px;}
 .pageheader h1 small{color: #fff;font-size: 12px;margin-left: 10px;position: relative;top: -4px;}
-.pageheader .note{margin-top:32px ;margin-bottom:15px;margin-left: 120px;width: 300px;}
+.pageheader .note{margin-top:32px ;margin-bottom:15px;margin-left: 120px;}
 .pageheader .card{margin-top:3px;margin-bottom:15px;margin-left: 65%;width: 300px;font-size: 15px;}
 .pageheader p{margin-bottom: 0;}
 .pageheader .share{float: right;height:28px;margin: 17px 0 0;color: #fff;}
