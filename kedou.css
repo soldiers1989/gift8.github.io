@@ -4836,7 +4836,7 @@ body{margin-top: 0;}
 #navs .item{overflow: hidden;margin:10px 0 20px;}
 #navs .item h2{width: 140px;padding: 11px 16px;margin: 0;font-size: 17px;}
 #navs .item ul{margin-right: -1%;}
-#navs .item li{float: left;width: 140px;margin-right: 7px;margin-top:7px;padding-left: 13px;height:42px; line-height:42px;background-color: #fff;border-bottom: 0px solid #fff;}
+#navs .item li{float: left;width: 140px;margin-right: 7px;margin-top:7px;padding-left: 13px;height:40px; line-height:42px;background-color: #fff;border-bottom: 0px solid #fff;}
 #navs .item li a{margin-bottom: 5px;display: inline-block;font-size: 14px;font-weight: bold;color: #61B3E6;border-bottom: 2px transparent;}
 #navs .item li a:hover{color: #FD8C84;border-bottom-color: #FD8C84;}
 
